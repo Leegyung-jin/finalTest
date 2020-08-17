@@ -10,4 +10,10 @@ public class youngjin {
 		return "home";
 	}
 	
+	@RequestMapping("okay.do")
+	public String okay(String id, String pwd) {
+		return "home2";
+	}
+	
+	
 }
