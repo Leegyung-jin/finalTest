@@ -6,6 +6,6 @@ public class ZzimController {
 	@RequestMapping("login.do")
 	public String ZzimLogin(String id, String pwd) {
 		return "home";
-		//e
+		//esssssqqqqqggggggggggg12341
 	}
 }
